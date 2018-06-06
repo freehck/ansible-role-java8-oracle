@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Dmitrii Kashin
+  description: Oracle Java 1.8 (warn: using ppa)
+  license: GPLv3
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+  categories:
+    - system
+
+dependencies: []
